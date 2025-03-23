@@ -54,7 +54,7 @@ YourUserID = "YOUR_USER_ID"
 Execute the script with Python:
 
 ```bash
-python yourscript.py
+python AccAI.py
 ```
 
 Your Discord account will now automatically reply to new messages in the selected channel.
