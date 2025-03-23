@@ -42,11 +42,11 @@ Visit [Google AI Studio](https://aistudio.google.com/apikey) and generate a free
 Replace placeholders in the script with your own:
 
 ```python
-TOKEN = "YOUR_DISCORD_TOKEN"
-CHANNEL = "YOUR_CHANNEL_ID"
-GUILD = "YOUR_SERVER_ID"
-GEMINI_KEY = "YOUR_GEMINI_API_KEY"
-YourUserID = "YOUR_USER_ID"
+TOKEN = "" # Discord token here
+CHANNEL = "" # Channel ID Here
+GUILD = "" # Server ID Here
+GemiKey = "" # Gemini Api key MUST BE GEMINI
+YourUserID = "" # your own user id (so it doesnt respond to itself)
 ```
 
 ### 5. Run the Script
